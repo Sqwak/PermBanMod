@@ -15,7 +15,7 @@ import vip.nostalgia.util.MainMenuUtil;
 
 import static vip.nostalgia.util.MainMenuUtil.isMainMenu;
 
-@Mod(modid = "Lynx", name = "The Perm Ban Mod", version = "2.0.1")
+@Mod(modid = "Lynx", name = "The Perm Ban Mod", version = "2.0.2")
 public class Core {
     public static boolean seenWarning = false;
 
